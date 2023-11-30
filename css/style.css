@@ -171,6 +171,10 @@ ul {
     margin: auto;
 }
 
+iframe {
+    width: 100%; /* Make the iframe responsive */
+}
+
 .main a {
     margin: 20% 10%;
 }
